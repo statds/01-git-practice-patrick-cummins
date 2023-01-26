@@ -1,1 +1,1 @@
-This is for Exercise 1 where I am going over the basics of Github and Git.
+This is my repo for 3255 Intro to Data Science
